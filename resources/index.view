@@ -1,0 +1,9 @@
+<svg class="background">
+  <text id="dateLabel" />
+  <text id="timeLabel"/>
+  <image id="heartrateIcon" width="30" height="30" href="hr-icon.png"/>
+  <text id="heartrateLabel" />
+  <text id="batteryLabel" />
+  <image id="stepsIcon" width="30" height="30" href="step-icon.png"/>
+  <text id="stepsLabel" />
+</svg>

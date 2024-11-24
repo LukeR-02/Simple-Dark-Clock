@@ -1,0 +1,59 @@
+.background {
+  viewport-fill: black;
+}
+
+#batteryLabel {
+  font-size: 15;
+  text-length: 32;
+  text-anchor: end;
+  x: 295;
+  y: 30;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 25;
+  text-length: 12;
+  text-anchor: middle;
+  x: 168;
+  y: 75;
+  fill: white;
+}
+
+#timeLabel {
+  font-size: 90;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: middle;
+  x: 168;
+  y: 155;
+  fill: white;
+}
+
+#stepsIcon {
+  x: 125;
+  y: 190;
+}
+
+#stepsLabel {
+  font-size: 30;
+  text-length: 10;
+  text-anchor: start;
+  fill: white;
+  x: 168;
+  y: 215;
+}
+
+#heartrateIcon {
+  x: 125;
+  y: 240;
+}
+
+#heartrateLabel {
+  font-size: 30;
+  text-length: 3;
+  text-anchor: start;
+  fill: white;
+  x: 168;
+  y: 265;
+}
