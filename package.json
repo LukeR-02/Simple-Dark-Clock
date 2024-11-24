@@ -1,14 +1,14 @@
 {
   "name": "simple-dark-clock",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "private": true,
   "license": "MIT",
   "devDependencies": {
-    "@fitbit/sdk": "~6.1.0",
-    "@fitbit/sdk-cli": "^1.7.3"
+    "@fitbit/sdk": "~7.2.0-pre.0",
+    "@fitbit/sdk-cli": "^1.8.0-pre.10"
   },
   "fitbit": {
-    "appUUID": "ebae547e-98ce-403d-897e-d658ea706b0b",
+    "appUUID": "ac1d682c-64f3-48c6-b1ad-d771fb953cdd",
     "appType": "clockface",
     "appDisplayName": "Simple Dark Clock",
     "iconFile": "resources/icon.png",
@@ -19,8 +19,8 @@
       "access_user_profile"
     ],
     "buildTargets": [
-      "atlas",
-      "vulcan"
+      "hera",
+      "rhea"
     ],
     "i18n": {},
     "defaultLanguage": "en-US"
