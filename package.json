@@ -1,6 +1,6 @@
 {
-  "name": "simple-clock",
-  "version": "0.1.0",
+  "name": "simple-dark-clock",
+  "version": "0.1.1",
   "private": true,
   "license": "MIT",
   "devDependencies": {
@@ -10,7 +10,7 @@
   "fitbit": {
     "appUUID": "ebae547e-98ce-403d-897e-d658ea706b0b",
     "appType": "clockface",
-    "appDisplayName": "Simple Clock",
+    "appDisplayName": "Simple Dark Clock",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
